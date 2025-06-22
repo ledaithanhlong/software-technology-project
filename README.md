@@ -12,8 +12,8 @@ Mục tiêu của dự án là khám phá và ghi lại các phương pháp tố
 | Tên                    | MSSV       | Vai Trò        |
 |------------------------|------------|----------------|
 | Lê Đại Thanh Long      | 2280607474 | Nhóm Trưởng    |
-| Vũ Huy Đức Anh         | 2280601329 | Thành viên     |
-| Võ Đình Khương         | 2280600895 | Thành viên     |
+| Vũ Huy Đức Anh         | 2280600141 | Thành viên     |
+| Võ Đình Khương         | 2280601585 | Thành viên     |
 | Nguyễn Khắc Minh Hiếu  | 2280607474 | Thành viên     |
 | Đặng Hoài Nam          | 2280611346 | Thành viên     |
 
